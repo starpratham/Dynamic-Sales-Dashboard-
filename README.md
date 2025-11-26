@@ -61,19 +61,4 @@ Copy code
 - `revenue`  
 - `is_returned`  
 
-*(These will be updated once you provide the actual ecommerce sample.)*
 
-## Tools & Requirements
-- Microsoft Excel 2016+ / Excel 365  
-- Power Query  
-- Optional: Power BI Desktop  
-
-## Best Practices
-- Do not modify raw data directly—always refresh from source.  
-- Document transformation steps inside Power Query.  
-- Maintain versioned copies of the dashboard before major updates.  
-
-## Next Steps
-- Add Data Dictionary using actual column names  
-- Insert sample preview of the dataset  
-- Document dashboard layout and visuals  
